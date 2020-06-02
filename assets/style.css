@@ -61,13 +61,13 @@ img{
 
 .img200px{
     width: 200px;
-    height: 200px;
     position: relative;
 }
 
 .img220px{
     width: 220px;
     height: 220px;
+    margin-bottom: 20px;
 }
 
 .content{
